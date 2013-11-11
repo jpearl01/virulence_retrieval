@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'bio'
+
+ncbi = Bio::NCBI::REST.new

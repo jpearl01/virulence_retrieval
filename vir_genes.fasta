@@ -1,0 +1,1503 @@
+LOCUS       H99976                   438 bp    mRNA    linear   EST 15-DEC-1995
+DEFINITION  yx26g04.s1 Soares melanocyte 2NbHM Homo sapiens cDNA clone
+            IMAGE:262902 3', mRNA sequence.
+ACCESSION   H99976
+VERSION     H99976.1  GI:1124644
+DBLINK      BioSample: LIBEST_000367
+KEYWORDS    EST.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 438)
+  AUTHORS   Hillier,L., Clark,N., Dubuque,T., Elliston,K., Hawkins,M.,
+            Holman,M., Hultman,M., Kucaba,T., Le,M., Lennon,G., Marra,M.,
+            Parsons,J., Rifkin,L., Rohlfing,T., Soares,M., Tan,F.,
+            Trevaskis,E., Waterston,R., Williamson,A., Wohldmann,P. and
+            Wilson,R.
+  TITLE     The WashU-Merck EST Project
+  JOURNAL   Unpublished (1995)
+COMMENT     Contact: Wilson RK
+            Washington University School of Medicine
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: est@watson.wustl.edu
+            High quality sequence stops: 268
+            Source: IMAGE Consortium, LLNL
+            This clone is available royalty-free through LLNL ; contact the
+            IMAGE Consortium (info@image.llnl.gov) for further information.
+            Insert Length: 2185   Std Error: 0.00
+            Seq primer: m13 -40 forward
+            High quality sequence stop: 268.
+FEATURES             Location/Qualifiers
+     source          1..438
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="GDB:3872544"
+                     /db_xref="taxon:9606"
+                     /clone="IMAGE:262902"
+                     /sex="Male"
+                     /tissue_type="melanocyte"
+                     /lab_host="DH10B (ampicillin resistant)"
+                     /clone_lib="LIBEST_000367 Soares melanocyte 2NbHM"
+                     /note="Vector: pT7T3D (Pharmacia) with a modified
+                     polylinker; Site_1: Not I; Site_2: Eco RI; 1st strand cDNA
+                     was primed with a Not I - oligo(dT) primer [5'
+                     TGTTACCAATCTGAAGTGGGAGCGGCCGCAGTTTTTTTTTTTTTTTTTTT 3'],
+                     double-stranded cDNA was size selected, ligated to Eco RI
+                     adapters (Pharmacia), digested with Not I and cloned into
+                     the Not I and Eco RI sites of a modified pT7T3 vector
+                     (Pharmacia). Library constructed by Bento Soares and
+                     M.Fatima Bonaldo. RNA from normal foreskin melanocytes
+                     (FS374) was kindly provided by Dr. Anthony P. Albino."
+ORIGIN      
+        1 atcaccaaga acttatttta atggaaatgg gtctaatgtc ccttcatgca acaagacaga
+       61 tgaacaaaaa acaatggtcc taattagcta tgagtgatct tgtatccagg tggaaacaaa
+      121 gggcatgtgt acatgtatat atctcttaga tgaaatcaca catgttgtga agggtagaaa
+      181 aacgaagcac caagcagtgc ttttagtctg caaaggaaag tttttagcca tagnatagtt
+      241 ggctaagtcg ttccccttga tgttgccaag gagcagatgt atgaggtggc aagtctgtgt
+      301 ctatctagct gcttttaaaa aataaaagga actttaagca ttttgccttt tcttctacat
+      361 atcccaatta gaaattgtga ctacaaatca ttncaaaacc actttttagg catgtatagt
+      421 tcactgagat tacttagg
+//
+LOCUS       AV180054                 300 bp    mRNA    linear   EST 21-JUL-1999
+DEFINITION  AV180054 Yuji Kohara unpublished cDNA:Strain N2 hermaphrodite
+            embryo Caenorhabditis elegans cDNA clone yk602b10 3', mRNA
+            sequence.
+ACCESSION   AV180054
+VERSION     AV180054.1  GI:5559955
+DBLINK      BioSample: LIBEST_001977
+KEYWORDS    EST.
+SOURCE      Caenorhabditis elegans
+  ORGANISM  Caenorhabditis elegans
+            Eukaryota; Metazoa; Ecdysozoa; Nematoda; Chromadorea; Rhabditida;
+            Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+REFERENCE   1  (bases 1 to 300)
+  AUTHORS   Kohara,Y., Shin-i,T., Thierry-Mieg,J., Thierry-Mieg,D., Mitsuki,H.,
+            Nishigaki,A., Motohashi,T., Zeng,Q., Watanabe,H., Sugimoto,A.,
+            Sano,M., Miyata,A., Mitani,Y., Iida,K., Uesugi,H., Sugiyama,Y. and
+            Nomoto,H.
+  TITLE     Expressed genes in C.elegans
+  JOURNAL   Unpublished (1999)
+COMMENT     Contact: Yuji Kohara
+            Genome Biology Lab.
+            National Institute of Genetics
+            Yata 1111, Mishima, Shizuoka 411, Japan.
+FEATURES             Location/Qualifiers
+     source          1..300
+                     /organism="Caenorhabditis elegans"
+                     /mol_type="mRNA"
+                     /strain="N2"
+                     /db_xref="taxon:6239"
+                     /clone="yk602b10"
+                     /sex="hermaphrodite"
+                     /dev_stage="embryo"
+                     /clone_lib="LIBEST_001977 Yuji Kohara unpublished
+                     cDNA:Strain N2 hermaphrodite embryo"
+ORIGIN      
+        1 tataaaacaa cataaaaacg ctaanacagc gataccaata gactacaaac attaaacgaa
+       61 agttattatt gcacacaact aatcaatgag tggggtggat tcaagaagat tgattatatt
+      121 aaggaattat aggtatatca caattatgac tcatggcaac aataaggttt agtaaatttt
+      181 ttaaagataa aaatgcgatc tcaactggaa aaatgtggat aaaacgttga ggggcagcaa
+      241 tttcagtcct gggaatcatg tagacagatt gccgacctgt ctgaagattg atttaccgct
+//
+
+LOCUS       AA798510                 422 bp    mRNA    linear   EST 10-FEB-1998
+DEFINITION  vx68f08.r1 Stratagene mouse skin (#937313) Mus musculus cDNA clone
+            IMAGE:1280391 5', mRNA sequence.
+ACCESSION   AA798510
+VERSION     AA798510.1  GI:2861465
+DBLINK      BioSample: LIBEST_000498
+KEYWORDS    EST.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 422)
+  AUTHORS   Marra,M., Hillier,L., Allen,M., Bowles,M., Dietrich,N., Dubuque,T.,
+            Geisel,S., Kucaba,T., Lacy,M., Le,M., Martin,J., Morris,M.,
+            Schellenberg,K., Steptoe,M., Tan,F., Underwood,K., Moore,B.,
+            Theising,B., Wylie,T., Lennon,G., Soares,B., Wilson,R. and
+            Waterston,R.
+  TITLE     The WashU-HHMI Mouse EST Project
+  JOURNAL   Unpublished (1996)
+COMMENT     Contact: Marra M/Mouse EST Project
+            WashU-HHMI Mouse EST Project
+            Washington University School of MedicineP
+            4444 Forest Park Parkway, Box 8501, St. Louis, MO 63108
+            Tel: 314 286 1800
+            Fax: 314 286 1810
+            Email: mouseest@watson.wustl.edu
+            This clone is available royalty-free through LLNL ; contact the
+            IMAGE Consortium (info@image.llnl.gov) for further information.
+            MGI:672191
+            Seq primer: -28m13 rev1 ET from Amersham.
+FEATURES             Location/Qualifiers
+     source          1..422
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="C57BL/6"
+                     /db_xref="taxon:10090"
+                     /clone="IMAGE:1280391"
+                     /sex="females"
+                     /tissue_type="whole skin"
+                     /dev_stage="11 weeks old"
+                     /lab_host="SOLR (kanamycin resistant)"
+                     /clone_lib="LIBEST_000498 Stratagene mouse skin (#937313)"
+                     /note="Organ: skin; Vector: pBluescript SK-; Site_1:
+                     EcoRI; Site_2: XhoI; Cloned unidirectionally.  Primer:
+                     Oligo dT. Whole skin from 11 week old C57BL/6 female mice.
+                     Average insert size: 1.0 kb; Uni-ZAP XR Vector; ~5'
+                     adaptor sequence: 5' GAATTCGGCACGAG 3' ~3' adaptor
+                     sequence: 5' CTCGAGTTTTTTTTTTTTTTTTTT 3'"
+ORIGIN      
+        1 agagatagaa gagggagata gggagaagga gaaagtgagg cgagagggaa ggggtcatgg
+       61 gagaaggaag atggaaaaca gcagaaattt atctatcgaa tgagaagata gattagggaa
+      121 taataaaaat gcctttcctt ccatggattc ctatgggaag attgccaaat tgtcccatta
+      181 acaaggcaca gtgcaaccca gcaagacaaa gccctttgtg cttttagtaa caagccacag
+      241 taaagagagg ataaaagtgg acggtctttc tcattcccct ctggggtgga gttcctgtac
+      301 acacaagtac tttctgttga gcctaacttc atgtcaccac tcaagggact tcctccagtc
+      361 tccccccatg catgccccaa agaaaacttt acatttgatt ttgtcttttt gaaaagatta
+      421 gt
+//
+LOCUS       D76172                   360 bp    mRNA    linear   EST 02-AUG-2006
+DEFINITION  CELK115B7F Yuji Kohara unpublished cDNA:Strain N2 hermaphrodite
+            embryo Caenorhabditis elegans cDNA clone yk115b7 5', mRNA sequence.
+ACCESSION   D76172
+VERSION     D76172.1  GI:1121956
+DBLINK      BioSample: LIBEST_001977
+KEYWORDS    EST.
+SOURCE      Caenorhabditis elegans
+  ORGANISM  Caenorhabditis elegans
+            Eukaryota; Metazoa; Ecdysozoa; Nematoda; Chromadorea; Rhabditida;
+            Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+REFERENCE   1  (bases 1 to 360)
+  AUTHORS   Kohara,Y., Mitsuki,H., Nishigaki,A., Motohashi,T., Sugimoto,A. and
+            Tabara,H.
+  TITLE     Toward an expression map of the C.elegans genome
+  JOURNAL   Unpublished (1994)
+COMMENT     Contact: Yuji Kohara
+            Genome Biology Lab.
+            National Institute of Genetics
+            Yata 1111, Mishima, Shizuoka 411, Japan.
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /organism="Caenorhabditis elegans"
+                     /mol_type="mRNA"
+                     /strain="N2"
+                     /db_xref="taxon:6239"
+                     /clone="yk115b7"
+                     /sex="hermaphrodite"
+                     /dev_stage="embryo"
+                     /clone_lib="LIBEST_001977 Yuji Kohara unpublished
+                     cDNA:Strain N2 hermaphrodite embryo"
+ORIGIN      
+        1 cgcattatgg atttcaccgt aaaaagtcac atcagtctgt tgcatctgag gttcctcgtc
+       61 ttcgatgagg cagatcgtct tttacaagat atgaaaaagg atccattggg acatcttgga
+      121 gcaattatca aagacgctgg cttcatggag tctgctgcta ctcgacaaac tatcatgaca
+      181 tcagcaactt ttancgcgag tgtcatgact gtcgcaaatg aactgatgaa acgattgcct
+      241 ggtcaagatg agatgattaa aatcgctcta gctaatggac gcttgagcaa cgcgttaact
+      301 ggagttcttc gaattgtaag gggtcttgca gagaagaacg cgaagctcag ggagattctt
+//
+LOCUS       AQ815207                 458 bp    DNA     linear   GSS 09-MAY-2010
+DEFINITION  HS_5265_B2_F02_SP6E RPCI-11 Human Male BAC Library Homo sapiens
+            genomic clone Plate=841 Col=4 Row=L, genomic survey sequence.
+ACCESSION   AQ815207
+VERSION     AQ815207.1  GI:5776185
+DBLINK      BioSample: LIBGSS_000061
+KEYWORDS    GSS.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 458)
+  AUTHORS   Mahairas,G.G., Wallace,J.C., Smith,K., Swartzell,S., Holzman,T.,
+            Keller,A., Shaker,R., Furlong,J., Young,J., Zhao,S., Adams,M.D. and
+            Hood,L.
+  TITLE     Sequence-tagged connectors: A sequence approach to mapping and
+            scanning the human genome
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 96 (17), 9739-9744 (1999)
+   PUBMED   10449764
+COMMENT     Contact: Mahairas GG, Wallace JC, Hood L
+            High Throughput Sequencing Center
+            University of Washington
+            401 Queen Anne Avenue North, Seattle, WA 98109, USA
+            Tel: (206) 616-3618
+            Fax: (206) 616-3887
+            Email: jwallace@u.washington.edu
+            Clones are derived from the human BAC library RPCI-11. For BAC
+            library availability, please contact Pieter de Jong
+            (pieter@dejong.med.buffalo.edu). Clones may be purchased from
+            BACPAC Resources (http://bacpac.med.buffalo.edu/ordering_bac.htm)
+            or from Resear h Genetics (info@resgen.com). BAC end Web Server:
+            http://www.htsc.washington.edu
+            Plate: 841  row: L  column: 4
+            Seq primer: SP6
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..458
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="Plate=841 Col=4 Row=L"
+                     /sex="male"
+                     /clone_lib="LIBGSS_000061 RPCI-11 Human Male BAC Library"
+                     /note="Vector: pBACe3.6; Site_1: EcoRI; Site_2: EcoRI;
+                     Male blood DNA was isolated from one randomly chosen donor
+                     and partially digested with a combination of EcoRI and
+                     EcoRI Methylase. Size selected DNA was cloned into the
+                     pBACe3.6 vector at EcoRI sites"
+ORIGIN      
+        1 catctatgct ctctgccggc gtgtggtagc tcatgcttgt tatcccagca ctttgggagg
+       61 ctgatgcatg acgatcatat tatgtcatga gttcaagacc agcctggcca acatagtgta
+      121 accccggctg tactgaaaat acaaaaacta accaggcatg gtgtcactca cctgctatcc
+      181 cagctattct agaggctgaa gcatgaaaat cccttgaacc tgagatgcag acgtatcaga
+      241 gagctcgaga tcacaccact gctctccatc ctggatacat attgagattc tgtctcacaa
+      301 gaaaaataaa acataggatt gtgtgcactc tgaatatcct tggtttggag tacatactaa
+      361 agtattccta atactgtgtt atatgcggag aaaataaaat ttggcggata ttatatatat
+      421 tctcgtaatt acaaggctaa tgatatttcc cagcgttt
+//
+LOCUS       AQ689978                 530 bp    DNA     linear   GSS 01-JUL-1999
+DEFINITION  nbxb0081E05f CUGI Rice BAC Library Oryza sativa Japonica Group
+            genomic clone nbxb0081E05f, genomic survey sequence.
+ACCESSION   AQ689978
+VERSION     AQ689978.1  GI:5331146
+DBLINK      BioSample: LIBGSS_000047
+KEYWORDS    GSS.
+SOURCE      Oryza sativa Japonica Group (Japanese rice)
+  ORGANISM  Oryza sativa Japonica Group
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BEP
+            clade; Ehrhartoideae; Oryzeae; Oryza.
+REFERENCE   1  (bases 1 to 530)
+  AUTHORS   Wing,R.A. and Dean,R.A.
+  TITLE     A BAC End Sequencing Framework to Sequence the Rice Genome
+  JOURNAL   Unpublished (1998)
+COMMENT     Contact: Wing RA
+            Clemson University Genomics Institute
+            Clemson University
+            100 Jordan Hall, Clemson, SC 29634, USA
+            Tel: 864 656 7288
+            Fax: 864 656 4293
+            Email: rwing@clemson.edu
+            Seq primer: TAATACGACTCACTATAGGG
+            Class: BAC ends
+            High quality sequence stop: 384.
+FEATURES             Location/Qualifiers
+     source          1..530
+                     /organism="Oryza sativa Japonica Group"
+                     /mol_type="genomic DNA"
+                     /cultivar="japonica"
+                     /cultivar="Nipponbare"
+                     /db_xref="taxon:39947"
+                     /clone="nbxb0081E05f"
+                     /tissue_type="Leaf"
+                     /lab_host="E. coli DH10B"
+                     /clone_lib="LIBGSS_000047 CUGI Rice BAC Library"
+                     /note="Vector: pBeloBAC11; Site_1: HindIII; Site_2:
+                     HindIII; Rice is one of two most popular grains in the
+                     world. Half of the world  population especially those
+                     inhabiting highly populated areas of the  humid tropics
+                     and subtropics, rely on rice as their primary source of
+                     carbohydrate. Monocotyledonous rice is a diploid plant
+                     (2n=24) with a  haploid genome equivalent of 431 Mbp
+                     (Arumuganathan and Earle, 1991).  The relatively small
+                     genome of rice, three times larger than that of
+                     Arabidopsis, makes it suitable for genomic studies. In
+                     order to  facilitate positional cloning, physical mapping
+                     and genome sequencing  of rice, we have constructed a BAC
+                     library from Oryza sativa, Nipponbare  variety. The
+                     library contains 36,864 clones with an average insert size
+                     of 128.5 Kb providing 10.9 haploid genome equivalents. The
+                     deep  coverage allows the isolation a particular sequence
+                     with a probability  of 99.9 %. Two high density filters,
+                     each containing 18,432 clones  (doubly spotted), represent
+                     the whole library for colony screening."
+ORIGIN      
+        1 tccacgtcag cactttatac cttacaactg agcagattaa tgcctctgac ttcttttact
+       61 actaactatc tcaattaatt aaatctcctc tttacctatt tctgttcaac tccgtgtctc
+      121 aattttggat tcaaccatga cagagcactc tgtacagcta acaattgaaa acaaaggtag
+      181 ccggtagtac atttgaaatc aaagcaaata aagaaaagat gaaaaaatca aaattatcac
+      241 cgcactacta cgaaaaccat tttcagagac ggatgaaaca catttccaaa gggaggtcga
+      301 ccatctgtct ctaacaggtt aaaacgacgt ggaaatggga ccatctacaa atgcaggtaa
+      361 aatgttgtct gcgaaaatca tttcccttaa tttaaccaca tttttatatt ctgctagcta
+      421 attagtacaa aacaaaacat ttcggttttt tatcatttct ggtgatatat tggaaattta
+      481 ttgaaaaatt agtttccatt gcctgccatt atgtggaggt gccgatccgt
+//
+LOCUS       GP39_BPSP1               255 aa            linear   PHG 01-MAY-2013
+DEFINITION  RecName: Full=Putative gene 39 protein.
+ACCESSION   O48395
+VERSION     O48395.1  GI:3913751
+DBSOURCE    UniProtKB: locus GP39_BPSP1, accession O48395;
+            class: standard.
+            created: Dec 15, 1998.
+            sequence updated: Jun 1, 1998.
+            annotation updated: May 1, 2013.
+            xrefs: AF031901.1, AAC29008.1, YP_002300283.1
+            xrefs (non-sequence databases): GeneID:7008996
+KEYWORDS    .
+SOURCE      Bacillus phage SPO1
+  ORGANISM  Bacillus phage SPO1
+            Viruses; dsDNA viruses, no RNA stage; Caudovirales; Myoviridae;
+            Spounavirinae; Spounalikevirus.
+REFERENCE   1  (residues 1 to 255)
+  AUTHORS   Stewart,C.R., Gaslightwala,I., Hinata,K., Krolikowski,K.A.,
+            Needleman,D.S., Peng,A.S., Peterman,M.A., Tobias,A. and Wei,P.
+  TITLE     Genes and regulatory sites of the 'host-takeover module' in the
+            terminal redundancy of Bacillus subtilis bacteriophage SPO1
+  JOURNAL   Virology 246 (2), 329-340 (1998)
+   PUBMED   9657951
+  REMARK    NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+FEATURES             Location/Qualifiers
+     source          1..255
+                     /organism="Bacillus phage SPO1"
+                     /host="Bacillus subtilis"
+                     /db_xref="taxon:10685"
+     gene            1..255
+                     /gene="39"
+     Protein         1..255
+                     /gene="39"
+                     /product="Putative gene 39 protein"
+                     /UniProtKB_evidence="Predicted"
+     Region          1..255
+                     /gene="39"
+                     /region_name="Mature chain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Putative gene 39 protein. /FTId=PRO_0000106145."
+ORIGIN      
+        1 melnldiyvd ykdkrykaeg yygpsvgdlv lifmdmeleg atvqevarie gseihlrtpn
+       61 gnepsyrymg qylilkpygs sdprgdilvh edvqyvrvda qampgdliea lepnklpfsg
+      121 krfkyrpavl eveyvltkde qvlqlengks ysgayrvlip rmgvlppkth iytthkhvfm
+      181 edvfvlgnsy elsspndvem tpihavftgf sknrdeaifv npyynddgvt gtmitvsdll
+      241 tgkwditplv pkkgv
+//
+LOCUS       BI868379                 760 bp    mRNA    linear   EST 11-OCT-2001
+DEFINITION  603392352F1 NIH_MGC_90 Homo sapiens cDNA clone IMAGE:5402532 5',
+            mRNA sequence.
+ACCESSION   BI868379
+VERSION     BI868379.1  GI:16042052
+DBLINK      BioSample: LIBEST_008584
+KEYWORDS    EST.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 760)
+  CONSRTM   National Institutes of Health, Mammalian Gene Collection (MGC)
+  TITLE     NIH-MGC EST Sequencing Project
+  JOURNAL   Unpublished (1999)
+  REMARK    http://mgc.nci.nih.gov/
+COMMENT     Contact: Robert Strausberg, Ph.D.
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: ATCC
+             cDNA Library Preparation: Life Technologies, Inc.
+             cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+             DNA Sequencing by: Incyte Genomics, Inc.
+             Clone distribution: MGC clone distribution information can be
+            found through the I.M.A.G.E. Consortium/LLNL at:
+            http://image.llnl.gov
+            Plate: LLAM12026  row: g  column: 13
+            High quality sequence stop: 758.
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="IMAGE:5402532"
+                     /tissue_type="adenocarcinoma, cell line"
+                     /lab_host="DH10B (phage-resistant)"
+                     /clone_lib="LIBEST_008584 NIH_MGC_90"
+                     /note="Organ: liver; Vector: pCMV-SPORT6; Site_1: NotI;
+                     Site_2: SalI; Cloned unidirectionally; oligo-dT primed.
+                     Average insert size 1.7 kb. Library enriched for
+                     full-length clones and constructed by Life Technologies.
+                     Note: this is a NIH_MGC Library."
+ORIGIN      
+        1 aattaagagc cttagtttga cttaacactt ttgtaggctt ttcattgtgt atttctgtgt
+       61 atgtgtgcat atagcagcta ctctgtagca gaggtgggta gagacactta atagtatcat
+      121 gtcgcatgca gatgtcacat cggcctctgc aaaaactgta ctgtcttgtt tctgcattag
+      181 acttaagtag tcatgtgaat atactgctat gtcactttta atattacgag ttttatactt
+      241 ggaaaatggt acttgcttct tttaaatctc tgtcttctct aacctccccc ttcccatttc
+      301 aatgctccct tcctaatttc agcaataatc tcaaaaagca attaaatagt taaatgaccc
+      361 taattgtaat tactgtggat ggttgcattc atttgattac ttgggcacac acgagatgac
+      421 aaatggggca gtggccatgc ttgaatgggc tcctggtgag agattgcccc ctggtggtga
+      481 aacaatcgtg tgtgcccact gataccaaga ccaatgaaag agacacagtt aagcagcaat
+      541 ccatctcatt tccaggcact tcaataggtc gctgattggt ccttgcacca gcagtggtag
+      601 tcgtacctat ttcagagagg tctgaaattc aggttcttag ttttgccagg gacaggccct
+      661 atcttatatt ttttttccat cttcatcatc cacttctgct tacagtttgc tgcttacaat
+      721 aacttaatga tggattgagt tatctgggtg gtctctagcc
+//
+LOCUS       BG263025                 372 bp    mRNA    linear   EST 16-FEB-2001
+DEFINITION  WHE0946_B10_C20ZS Wheat 5-15 DAP spike cDNA library Triticum
+            aestivum cDNA clone WHE0946_B10_C20, mRNA sequence.
+ACCESSION   BG263025
+VERSION     BG263025.1  GI:12864769
+DBLINK      BioSample: LIBEST_005603
+KEYWORDS    EST.
+SOURCE      Triticum aestivum (bread wheat)
+  ORGANISM  Triticum aestivum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; BEP
+            clade; Pooideae; Triticeae; Triticum.
+REFERENCE   1  (bases 1 to 372)
+  AUTHORS   Anderson,O.D., Chao,S., Choi,D.W., Close,T.J., Fenton,R.D.,
+            Han,P.S., Hsia,C.C., Kang,Y., Lazo,G.R., Miller,R., Rausch,C.J.,
+            Seaton,C.L. and Tong,J.C.
+  TITLE     The structure and function of the expressed portion of the wheat
+            genomes - 5-15 DAP spike cDNA library
+  JOURNAL   Unpublished (2000)
+COMMENT     Contact: Olin Anderson
+            US Department of Agriculture, Agriculture Research Service, Pacific
+            West Area, Western Regional Research Center
+            800 Buchanan Street, Albany, CA 94710, USA
+            Tel: 5105595773
+            Fax: 5105595818
+            Email: oandersn@pw.usda.gov
+            Sequence have been trimmed to remove vector sequence and low
+            quality sequence with phred score less than 20
+            Seq primer: Stratagene SK primer.
+FEATURES             Location/Qualifiers
+     source          1..372
+                     /organism="Triticum aestivum"
+                     /mol_type="mRNA"
+                     /cultivar="Chinese Spring"
+                     /db_xref="taxon:4565"
+                     /clone="WHE0946_B10_C20"
+                     /tissue_type="Spike"
+                     /dev_stage="Adult plant"
+                     /lab_host="E. coli SOLR"
+                     /clone_lib="LIBEST_005603 Wheat 5-15 DAP spike cDNA
+                     library"
+                     /note="Vector: Lambda Uni-ZAP XR, excised phagemid;
+                     Site_1: EcoRI; Site_2: XhoI; Plants were grown in the
+                     greenhouse. Spikes at 5, 10 and 15 DAP were  harvested,
+                     total RNA and poly(A) RNA were prepared, a cDNA library
+                     was  made, and the cDNA clones were in vivo excised to
+                     give pBluescript  phagemids in the TJ Close lab (Choi,
+                     Close, Fenton) at the University  of California,
+                     Riverside. Plasmid DNA preparations and DNA sequencing
+                     were performed in the OD Anderson lab (all other
+                     authors)."
+ORIGIN      
+        1 aacgcggcgg ccatggagga cgaagagcac gaggtgtacg gccaggagat ccccgtcgac
+       61 ggcgaggacg tcgactgggc gccgggggcg acgacgccgc caagctgcac gagctcgacg
+      121 agatgaagcg ccgtctcaag gagatggagg aggaggccgc cgccctccgc gagatgcagg
+      181 ccaaggtcgc caaggagatg caaggcggag atcctaatgc gaccacatct gaagcaaaag
+      241 aagagatgga ttctcgttct gtttttgttg gaaatgttga ctatgcatgc actccagaag
+      301 aagtgcagca gcattttaat tcgtgcggaa ccgtcaaccg agtgactatc ctgaccgaca
+      361 agtttgggca gc
+//
+LOCUS       AF233544_1               116 aa            linear   INV 16-FEB-2001
+DEFINITION  wingless, partial [Helicopis cupido].
+ACCESSION   AAF70148
+VERSION     AAF70148.2  GI:12863144
+DBSOURCE    accession AF233544.2
+KEYWORDS    .
+SOURCE      Helicopis cupido
+  ORGANISM  Helicopis cupido
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Lepidoptera; Glossata;
+            Ditrysia; Papilionoidea; Riodinidae; Riodininae; Helicopini;
+            Helicopis.
+REFERENCE   1  (residues 1 to 116)
+  AUTHORS   Campbell,D.L., Brower,A.V. and Pierce,N.E.
+  TITLE     Molecular evolution of the wingless gene and its implications for
+            the phylogenetic placement of the butterfly family Riodinidae
+            (Lepidoptera: papilionoidea)
+  JOURNAL   Mol. Biol. Evol. 17 (5), 684-696 (2000)
+   PUBMED   10779529
+REFERENCE   2  (residues 1 to 116)
+  AUTHORS   Campbell,D.L., Brower,A.V.Z. and Pierce,N.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-FEB-2000) Organismic and Evolutionary Biology,
+            Harvard University, 26 Oxford St., Cambridge, MA 02138, USA
+COMMENT     On Feb 16, 2001 this sequence version replaced gi:7804839.
+            Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..116
+                     /organism="Helicopis cupido"
+                     /db_xref="taxon:124377"
+     Protein         <1..>116
+                     /product="wingless"
+     Region          <1..116
+                     /region_name="wnt"
+                     /note="wnt family; pfam00110"
+                     /db_xref="CDD:201009"
+     CDS             1..116
+                     /gene="wg"
+                     /coded_by="AF233544.2:<1..>350"
+                     /codon_start=2
+ORIGIN      
+        1 rlqsfraigd ilrdrfdaat rvimpnvead isvqrndavp hrsrkrdryr lqlkphdpeh
+       61 kapglkdlvy leqspgfcek nsrldiigtx grtcdeasmq vegcdllccg rgfkte
+//
+LOCUS       AL537477                 626 bp    mRNA    linear   EST 31-MAY-2003
+DEFINITION  AL537477 LTI_FL013_FBrn1 Homo sapiens cDNA clone CS0DF025YP09 3
+            prime, mRNA sequence.
+ACCESSION   AL537477
+VERSION     AL537477.1  GI:12800970
+DBLINK      BioSample: LIBEST_002835
+KEYWORDS    EST.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 626)
+  AUTHORS   Li,W.B., Gruber,C., Jessee,J. and Polayes,D.
+  TITLE     Full-length cDNA libraries and normalization
+  JOURNAL   Unpublished (2001)
+COMMENT     [WARNING] On Feb 13, 2001 this sequence was replaced by a newer
+            version gi:31262087.
+            Contact: Genoscope
+            Genoscope - Centre National de Sequencage
+            BP 191 91006 EVRY cedex - FRANCE
+            Email: seqref@genoscope.cns.fr, Web : www.genoscope.cns.fr.
+FEATURES             Location/Qualifiers
+     source          1..626
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="CS0DF025YP09"
+                     /dev_stage="pooled tissue from post conception fetuses (20
+                     week, 24 week and 26 week)"
+                     /lab_host="DH10B"
+                     /clone_lib="LIBEST_002835 LTI_FL013_FBrn1"
+                     /note="Organ: Fetal brain; Vector: pCMVSPORT 6; 1st strand
+                     cDNA was primed with a NotI-oligo(dT) primer. Five prime
+                     end enriched, double-stranded cDNA was digested with Not I
+                     and cloned into the Not I and Eco RV sites of the
+                     pCMVSPORT 6 vector.  Library was constructed by Life
+                     Technologies.  Contact : Feng Liang Life Technologies, a
+                     division of Invitrogen 9800 Medical Center Drive
+                     Rockville, Maryland 20850, USA Fax : (1) 301 610 8371
+                     Email : fliang@lifetech.com URL :
+                     http://fulllength.invitrogen.com"
+ORIGIN      
+        1 tttwtttgtt actcaaaaaa tcttatttct gactggattc agacttagaa gtagaagctc
+       61 gcagagagga aagtctgcgt ctcttcgcaa tttgttcctg gcgcttctcc ttagcctcct
+      121 tcattctctt ggccaaaagt ttagcatatt ctgcagcctc ttctttattt ttcttggtac
+      181 gctgcttctt cagagcaata cgccgccgtt tgtgctgcag gacacgtgga gtaacaagas
+      241 gctgaatctt gggtgctttg gtcctaggtt tcttaccttc tttatttaag ggctttctta
+      301 caacatactg gsggrcatca tcttctttag agagattgar aagtttgcgg attctgctag
+      361 ctcttttggg gcccaggcgg cgaggcactg tagtatcatg ttatgttcat ggaatatcct
+      421 tctctccttt ttttacaata accaatgttt gagaactgct cagatttgtg catccacaat
+      481 tgcaaccact gaacttgatt ttgcgctttg ctttcgccat gttgctccgg tgtggcttgt
+      541 aacatgtgaa ttgccccttk acttcatgta tgcattgctt gacacttgcc aattttgtga
+      601 atgaatttga attttgkgat tgtttg
+//
+LOCUS       AZ701891                 244 bp    DNA     linear   GSS 24-JAN-2001
+DEFINITION  RPCI-23-224P21.TJ RPCI-23 Mus musculus genomic clone
+            RPCI-23-224P21, genomic survey sequence.
+ACCESSION   AZ701891
+VERSION     AZ701891.1  GI:12424766
+DBLINK      BioSample: LIBGSS_000879
+KEYWORDS    GSS.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 244)
+  AUTHORS   Zhao,S., Nierman,W., Feldblyum,T., Malek,J., Shatsman,S.,
+            Akinret,B., Levins,M., Mcgann,S., Tsegaye,G., Geer,K., Krol,M., de
+            Jong,P. and Fraser,C.M.
+  TITLE     Mouse BAC End Sequences from Library RPCI-23
+  JOURNAL   Unpublished (1999)
+COMMENT     Other_GSSs: RPCI-23-224P21.TV
+            Contact: Shaying Zhao
+            Department of Eukaryotic Genomics
+            The Institute for Genomic Research
+            9712 Medical Center Dr., Rockville, MD 20850, USA
+            Tel: 301 838 0200
+            Fax: 301 838 0208
+            Email: szhao@tigr.org
+            Clones are derived from the mouse BAC library RPCI-23. For BAC
+            library availability, please contact Pieter de Jong
+            (pdejong@mail.cho.org). Clones may be purchased from BACPAC
+            Resources (http://www.chori.org/bacpac/orderingframe.htm). BAC end
+            page: http://ww .tigr.org/tdb/bac_ends/mouse/bac_end_intro.html
+            Plate: 224  row: P  column: 21
+            Seq primer: SP6
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..244
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="C57BL/6J"
+                     /db_xref="taxon:10090"
+                     /clone="RPCI-23-224P21"
+                     /sex="Female"
+                     /lab_host="DH10B"
+                     /clone_lib="LIBGSS_000879 RPCI-23"
+                     /note="Organ: Kidney/Brain; Vector: pBACe3.6; Site_1:
+                     EcoRI; Site_2: EcoRI; Female C57BL/6J mouse kidney and/or
+                     brain genomic DNA was isolated and  partially digested
+                     with a combination of EcoRI and EcoRI Methylase.   Size
+                     selected DNA was cloned into the pBACe3.6 vector at the
+                     EcoRI  sites.  The ligation products were transformed into
+                     DH10B  electrocompetent cells (BRL Life Technologies)."
+ORIGIN      
+        1 catgagactg tctgagtata aagaagaaag gaatgaatga gaggaaggaa aagggaggga
+       61 aggagagaga ggcaaggatg gaaaggaagc aaggaaggaa tgaaggaagg aaggaaggaa
+      121 cgaaggacgg aaggaaggaa ggaaaaaggg gagtgaagga aggtggcaga atcgtaaagg
+      181 gaaagagaaa aggaaggaaa gaaagaagga aaggcggagg ggacgacgcg aatcgaaagg
+      241 ccgg
+//
+LOCUS       CAC24700                 273 aa            linear   PRI 07-OCT-2008
+DEFINITION  cha transcription factor, partial [Homo sapiens].
+ACCESSION   CAC24700
+VERSION     CAC24700.1  GI:12331278
+DBSOURCE    embl accession AJ271337.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Girones,N., Rodriguez,C.I., Carrasco-Marin,E., Hernaez,R.F., de
+            Rego,J.L. and Fresno,M.
+  TITLE     Dominant T- and B-cell epitopes in an autoantigen linked to Chagas'
+            disease
+  JOURNAL   J. Clin. Invest. 107 (8), 985-993 (2001)
+   PUBMED   11306602
+REFERENCE   2  (residues 1 to 273)
+  AUTHORS   Girones,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JAN-2000) Girones N., Bioquimica y Biologia
+            Molecular, Centro de Biologia Molecular 'Severo Ochoa', Facultad de
+            Ciencias. Universidad Autonoma de Madrid. Cantoblanco, 28049
+            Madrid, SPAIN
+FEATURES             Location/Qualifiers
+     source          1..273
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Protein         1..>273
+                     /product="cha transcription factor"
+                     /function="regulation of transcription"
+     CDS             1..273
+                     /gene="Cha"
+                     /coded_by="AJ271337.1:484..>1302"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /db_xref="GOA:Q9UL49"
+                     /db_xref="HGNC:11646"
+                     /db_xref="InterPro:IPR001092"
+                     /db_xref="InterPro:IPR011598"
+                     /db_xref="UniProtKB/Swiss-Prot:Q9UL49"
+ORIGIN      
+        1 mnvplqqqnk ctalvknkta atttalqfty plfttnacst sgnsnlsqtq sssnscsvle
+       61 aakhqdiglp rafsfcyqqe iestkqtlgs rnkvlpeqvw ikvgeaalck qalkrnrsrm
+      121 rqldtnverr algeiqnvge gatatqgawq ssessqanlg eqaqsgpqgg rsqrrerhnr
+      181 merdrrrrir iccdelnllv pfcnaetdka ttlqwttafl kyiqerhgds lkkefesvfc
+      241 gktgrrlklt rpdslvtcpa qgslqsspsm eik
+//
+LOCUS       AB046357                1493 bp    DNA     linear   BCT 06-APR-2002
+DEFINITION  Rhodococcus sp. IFO16295 gene for 16S rRNA, partial sequence.
+ACCESSION   AB046357
+VERSION     AB046357.1  GI:12328428
+KEYWORDS    .
+SOURCE      Rhodococcus jostii
+  ORGANISM  Rhodococcus jostii
+            Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales;
+            Corynebacterineae; Nocardiaceae; Rhodococcus.
+REFERENCE   1
+  AUTHORS   Takeuchi,M., Hatano,K., Sedlacek,I. and Pacova,Z.
+  TITLE     Rhodococcus jostii sp. nov., isolated from medieval grave
+  JOURNAL   Int. J. Syst. Bacteriol. 52, 409-413 (2002)
+REFERENCE   2  (bases 1 to 1493)
+  AUTHORS   Takeuchi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-JUL-2000) Mariko Takeuchi, Institute for
+            Fermentation, Osaka, bacteria; 17-85, Juso-honmachi 2-chome,
+            Yodogawa-ku, Osaka, Osaka 532-8686, Japan
+            (E-mail:takeuchi-mariko@ifo.or.jp, Tel:81-06-6300-6555,
+            Fax:81-06-6300-6814)
+FEATURES             Location/Qualifiers
+     source          1..1493
+                     /organism="Rhodococcus jostii"
+                     /mol_type="genomic DNA"
+                     /strain="IFO16295"
+                     /db_xref="taxon:132919"
+     gene            <1..>1493
+                     /gene="16S rDNA"
+     rRNA            <1..>1493
+                     /gene="16S rDNA"
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tgatcctngc tcaggacgaa cgctggcggc gtgcttaaca catgcaagtc gagcggtaag
+       61 cgcgttcggg tacacgagcg gcgaacgggt gagtaacacg tgggtgttct gccctgcact
+      121 tcgggataag cctgggaaac tgggtctaat accggatatg acttcggctg catggccgag
+      181 ggtggaaagg ttaactggtg caggatgggc ccgcggccta tcagcttgtt ggtggggtaa
+      241 tggcctacca aggcgacgac gggtagccga cctgagaggg tgaccggcca cactgggact
+      301 gagacacggc ccagactcta cgggaggcag cagtggggaa tattgcacaa tgggcgaaag
+      361 cctgatgcag cgacgccgcg tgagggatga cggccttcgg gttgtaaacc tctttcagca
+      421 gggacgaagc gaaagtgacg gtacctgcag aagaagcacc ggctaactac gtgccagcag
+      481 ccgcggtaat acgtagggtg caagcgttgt ccggaattac tgggcgtaaa gagttcgtag
+      541 gcggtttgtc gcgtcgtttg tgaahactca cagctcaact gtgagcctgc aggcgatacg
+      601 ggcagacttg agtactgcag gggagactgg aattcctggt gtagcggtga aatgcgcaga
+      661 tatcaggagg aacaccggtg gcgaaggcgg gtctctgggc agtaactgac gctgaggaac
+      721 gaaagcgtgg gtagcaaaca ggattagata ccctggtagt ccacgccgta aacggtgggc
+      781 gctaggtgtg ggttccttcc acgggatctg tgccgtagct aacgcattaa gcgccccgcc
+      841 tggggagtac ggccgcaagg taaaactcaa aggaattgac gggggcccgc acaagcggcg
+      901 gagcatgtgg attaattcga tgcaacgcga agaaccttac ctgggtttga catataccgg
+      961 aaagccgtag agatacggcc ccccttgtgg tcggtataca ggtggtgcat ggctgtcgtc
+     1021 agctcgtgtc gtgagatgtt gggttaagtc ccgcaacgag cgcaaccctt gtcttatgtt
+     1081 gccagcacgt aatggtgggg actcgtaaga cactgccggg gtcaactcgg aggaaggtgg
+     1141 ggacgacgtc aagtcatcat gccccttatg tccagggctt cacacatgct acaatggcca
+     1201 gtacagaggg ctgcgagacc gtgaggtgga gcgaatccct taaagctggt ctcagttcgg
+     1261 atcggggtct gcaactcgac cccgtgaagt cggagtcgct agtaaatcgc agatcagcaa
+     1321 cgctgcggtg aatacgttcc cgggccttgt acacaccgcc cgtcacgtca tgaaagtcgg
+     1381 taacacccga agccggtggc ctaacccctt gtgggaggga gccgtcgaag gtgggatcgg
+     1441 cgattgggac gaagtgtaac aaggtagccg taccggaagg tgcggctgga tca
+//
+LOCUS       NIKR_HELPJ               148 aa            linear   BCT 16-OCT-2013
+DEFINITION  RecName: Full=Putative nickel-responsive regulator.
+ACCESSION   Q9ZJP7
+VERSION     Q9ZJP7.1  GI:17369974
+DBSOURCE    UniProtKB: locus NIKR_HELPJ, accession Q9ZJP7;
+            class: standard.
+            created: Nov 2, 2001.
+            sequence updated: May 1, 1999.
+            annotation updated: Oct 16, 2013.
+            xrefs: AE001439.1, AAD06843.1, C71829, NP_223975.1
+            xrefs (non-sequence databases): ProteinModelPortal:Q9ZJP7,
+            SMR:Q9ZJP7, STRING:85963.jhp1257, EnsemblBacteria:AAD06843,
+            EnsemblBacteria:AAD06843, EnsemblBacteria:jhp_1257, GeneID:890405,
+            KEGG:hpj:jhp1257, PATRIC:20607358, eggNOG:COG0864, KO:K07722,
+            OMA:HVHMDEH, ProtClustDB:PRK00630,
+            BioCyc:HPYL85963:GJB9-1293-MONOMER, GO:0003677, GO:0016151,
+            GO:0003700, GO:0010045, GO:0006351, Gene3D:1.10.1220.10,
+            HAMAP:MF_00476, InterPro:IPR013321, InterPro:IPR002145,
+            InterPro:IPR022988, InterPro:IPR010985, InterPro:IPR014864,
+            Pfam:PF08753, Pfam:PF01402, SUPFAM:SSF47598
+KEYWORDS    Complete proteome; DNA-binding; Metal-binding; Nickel;
+            Transcription; Transcription regulation.
+SOURCE      Helicobacter pylori J99
+  ORGANISM  Helicobacter pylori J99
+            Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales;
+            Helicobacteraceae; Helicobacter.
+REFERENCE   1  (residues 1 to 148)
+  AUTHORS   Alm,R.A., Ling,L.S., Moir,D.T., King,B.L., Brown,E.D., Doig,P.C.,
+            Smith,D.R., Noonan,B., Guild,B.C., deJonge,B.L., Carmel,G.,
+            Tummino,P.J., Caruso,A., Uria-Nickelsen,M., Mills,D.M., Ives,C.,
+            Gibson,R., Merberg,D., Mills,S.D., Jiang,Q., Taylor,D.E.,
+            Vovis,G.F. and Trust,T.J.
+  TITLE     Genomic-sequence comparison of two unrelated isolates of the human
+            gastric pathogen Helicobacter pylori
+  JOURNAL   Nature 397 (6715), 176-180 (1999)
+   PUBMED   9923682
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].;
+            STRAIN=J99 / ATCC 700824
+            Erratum:[Nature 1999 Feb 25;397(6721):719]
+COMMENT     On Oct 25, 2005 this sequence version replaced gi:7447628.
+            [FUNCTION] Transcriptional regulator (Potential).
+            [COFACTOR] Binds 1 nickel ion per subunit (By similarity).
+            [SUBUNIT] Homotetramer (By similarity).
+            [SIMILARITY] Belongs to the transcriptional regulatory CopG/NikR
+            family.
+FEATURES             Location/Qualifiers
+     source          1..148
+                     /organism="Helicobacter pylori J99"
+                     /db_xref="taxon:85963"
+     gene            1..148
+                     /locus_tag="jhp_1257"
+     Protein         1..148
+                     /locus_tag="jhp_1257"
+                     /product="Putative nickel-responsive regulator"
+                     /UniProtKB_evidence="Inferred from homology"
+     Region          1..148
+                     /locus_tag="jhp_1257"
+                     /region_name="Mature chain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Putative nickel-responsive regulator.
+                     /FTId=PRO_0000139292."
+     Region          1..148
+                     /locus_tag="jhp_1257"
+                     /region_name="PRK00630"
+                     /note="nickel responsive regulator; Provisional"
+                     /db_xref="CDD:234805"
+     Region          12..51
+                     /locus_tag="jhp_1257"
+                     /region_name="RHH_1"
+                     /note="Ribbon-helix-helix protein, copG family; pfam01402"
+                     /db_xref="CDD:201775"
+     Region          65..143
+                     /locus_tag="jhp_1257"
+                     /region_name="NikR_C"
+                     /note="NikR C terminal nickel binding domain; pfam08753"
+                     /db_xref="CDD:204052"
+     Site            88
+                     /locus_tag="jhp_1257"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Nickel (By similarity)."
+     Site            99
+                     /locus_tag="jhp_1257"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Nickel (By similarity)."
+     Site            101
+                     /locus_tag="jhp_1257"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Nickel (By similarity)."
+     Site            107
+                     /locus_tag="jhp_1257"
+                     /site_type="metal-binding"
+                     /inference="non-experimental evidence, no additional
+                     details recorded"
+                     /note="Nickel (By similarity)."
+ORIGIN      
+        1 mdtpnkddsi irfsvslqqn lldeldnrii kngyssrsel vrdmireklv ednwvednpn
+       61 dgskiavlvv iydhhqreln qrmidiqhas gthvlctthi hmdehnclet iilqgnslei
+      121 qrlqleiggl rgvkfakltk assfeyne
+//
+LOCUS       AG115584                 702 bp    DNA     linear   GSS 03-NOV-2001
+DEFINITION  Pan troglodytes DNA, clone: PTB-122N20.R, genomic survey sequence.
+ACCESSION   AG115584
+VERSION     AG115584.1  GI:16736103
+KEYWORDS    GSS.
+SOURCE      Pan troglodytes (chimpanzee)
+  ORGANISM  Pan troglodytes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+REFERENCE   1
+  AUTHORS   Fujiyama,A., Hattori,M., Toyoda,A., Taylor,T.D., Yada,T.,
+            Totoki,Y., Watanabe,H. and Sakaki,Y.
+  TITLE     BAC end sequences of Library PTB
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 702)
+  AUTHORS   Fujiyama,A., Hattori,M., Toyoda,A., Taylor,T.D., Yada,T.,
+            Totoki,Y., Watanabe,H. and Sakaki,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-AUG-2001) Asao Fujiyama, The Institute of Physical
+            and Chemical Research (RIKEN), Genomic Sciences Center (GSC);
+            1-7-22 Suehiro-chou,Tsurumi-ku, Yokohama, Kanagawa 230-0045, Japan
+            (E-mail:chimpbes@gsc.riken.go.jp, URL:http://hgp.gsc.riken.go.jp/,
+            Tel:81-45-503-9111, Fax:81-45-503-9170)
+COMMENT     Clones are derived from the chimpanzee BAC library PTB This BAC end
+            was generated during the R&D process and may have higher chance of
+            clone tracking errors.
+             PRIMERS
+                 Sequencing: M13Rev
+             LIBRARY
+                 Vector    : pKS145
+                 R.Site 1  : SacI
+                 R.Site 2  : SacI.
+FEATURES             Location/Qualifiers
+     source          1..702
+                     /organism="Pan troglodytes"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9598"
+                     /clone="PTB-122N20.R"
+                     /sex="male"
+                     /cell_type="lymphoblast"
+                     /clone_lib="PTB Chimpanzee Male BAC Library"
+ORIGIN      
+        1 gattacgcca gaaaacctaa tacgactcac tatagggacg gccgctagca tgctcgagag
+       61 ctcagactgt tctttgagga atggaaaggg gaagggaggg agaataggat ggtagcttaa
+      121 actggaagtg ggcaaaggaa attcttgctt tttagaatga gtgacacttg cctctatgta
+      181 tagaaatgtc aagaaaagga gggagtaaag gtgggaaaag taaagaatta ctggagccag
+      241 gcctgttagg tggtgggggt ggcactaggg caggaagcca ggccctgcag catgggatac
+      301 gggggctgat attggaaggg agctgcacca ccttgtcttt gtctaaggct ggaggctcca
+      361 cttgacttgg gagatggatt ctgggggagt tttggcaaaa tggttaactt gcattctgcc
+      421 cctccactac ctactgattc actagtgaga atgtgagaac agcagggcac tccataatgc
+      481 ctgtccatca tcacagagta gcacctacac ctggtctcag tgtttcacct gctgcattct
+      541 aagcggactc aagagactgc aaaacagcca aatctgctct ttgtcccagg gttgttttgc
+      601 aacactactt tttctggatt gactttgcat atgcaaaaac aaatctagct gggtttaaaa
+      661 aaaaatcctt tactaaaaat aaataagtgt tctcctattt tt
+//
+LOCUS       BI905251                 719 bp    mRNA    linear   EST 16-OCT-2001
+DEFINITION  603167210F1 NCI_CGAP_Lu33 Mus musculus cDNA clone IMAGE:5255354 5',
+            mRNA sequence.
+ACCESSION   BI905251
+VERSION     BI905251.1  GI:16167746
+DBLINK      BioSample: LIBEST_003746
+KEYWORDS    EST.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 719)
+  CONSRTM   National Institutes of Health, Mammalian Gene Collection (MGC)
+  TITLE     NIH-MGC EST Sequencing Project
+  JOURNAL   Unpublished (1999)
+  REMARK    http://mgc.nci.nih.gov/
+COMMENT     Contact: Robert Strausberg, Ph.D.
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: Gilbert Smith, Ph.D.
+             cDNA Library Preparation: M. Bento Soares, Ph.D., M. Fatima
+            Bonaldo, Ph.D.
+             cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+             DNA Sequencing by:Incyte Genomics, Inc.
+             Clone distribution: NCI-CGAP clone distribution information can be
+            found through the I.M.A.G.E. Consortium/LLNL at:
+            http://image.llnl.gov
+            Plate: LLAM11645  row: c  column: 03
+            High quality sequence start: 29.
+FEATURES             Location/Qualifiers
+     source          1..719
+                     /organism="Mus musculus"
+                     /mol_type="mRNA"
+                     /strain="Czech II"
+                     /db_xref="taxon:10090"
+                     /clone="IMAGE:5255354"
+                     /tissue_type="pooled lung tumors"
+                     /lab_host="DH10B (phage-resistant)"
+                     /clone_lib="LIBEST_003746 NCI_CGAP_Lu33"
+                     /note="Organ: lung; Vector: pT7T3D-PacI; Site_1: NotI;
+                     Site_2: EcoRI; 1st strand cDNA was prepared from mRNA
+                     obtained from pooled lung tumors with a Not I - oligo(dT)
+                     primer [5'
+                     TGTTACCAATCTGAAGTGGGAGCGGCCGCCTCTGTTTTTTTTTTTTTTTTT 3'].
+                     Double-stranded cDNA was ligated to Eco RI adaptors
+                     (Pharmacia),  digested with Not I and cloned into the Not
+                     I and Eco RI sites of  the modified pT7T3 vector. Library
+                     went through one round of normalization, and was
+                     constructed  by Bento Soares and M. Fatima Bonaldo."
+ORIGIN      
+        1 atgctatttt ttttttcttt ggacgtttgt agtgtttaat acaattcagc tcgtagttaa
+       61 gggcacaaga caacatttaa caaaaataat cacatcaatt gacctagaaa tcaaatgcaa
+      121 atagatatga atacaatctc caaaatctgt ctttttaagt gaacattacc catttattca
+      181 aagttataca agaatctgaa ggattaaagt ctcctgtgac ataaagccat ttcaatagtt
+      241 tcatgtctca gctgagcatg aggaaagagg gtgacagagt gcgtggctcc actgggcagc
+      301 tagccggtaa caccagactc aacagcagcc tccccctgcc tgctgtccgc cttggttgct
+      361 cccatgagat gcgttggtag cagcgtgctg agggccaatt ttaatgccgt tggcctcatt
+      421 attaatgtca aagacccctt ctgggatttt tcataaattc ctttggctgt gtcaataaat
+      481 gcctcctcta cattagacgc agtcttggca gaagttccca tgaagataag tccatgctct
+      541 cgtgcaaaag cttcaccttc ttccttttcc acttctctcc tagattctaa gtccactttt
+      601 attcccaata agcttgtatg accatgttgg aatgggaatg ctgacgggca tcttctaacc
+      661 aggttgtcaa gtggttgaac gtgtctctcc ttgtaatatc atacactagt aaagccccg
+//
+LOCUS       AU206857                 516 bp    mRNA    linear   EST 30-MAY-2003
+DEFINITION  AU206857 unpublished oligo-capped cDNA library, stage L1
+            Caenorhabditis elegans cDNA clone yk882c03 5', mRNA sequence.
+ACCESSION   AU206857
+VERSION     AU206857.1  GI:14840345
+DBLINK      BioSample: LIBEST_009634
+KEYWORDS    EST.
+SOURCE      Caenorhabditis elegans
+  ORGANISM  Caenorhabditis elegans
+            Eukaryota; Metazoa; Ecdysozoa; Nematoda; Chromadorea; Rhabditida;
+            Rhabditoidea; Rhabditidae; Peloderinae; Caenorhabditis.
+REFERENCE   1  (bases 1 to 516)
+  AUTHORS   Kohara,Y., Shin-i,T., Thierry-Mieg,J., Thierry-Mieg,D., Suzuki,Y.
+            and Sugano,S.
+  TITLE     A complementary view of the C.elegans genome
+  JOURNAL   Unpublished (2001)
+COMMENT     [WARNING] On Jul 17, 2001 this sequence was replaced by a newer
+            version gi:31232595.
+            Contact: Yuji Kohara
+            Genome Biology Lab.
+            National Institute of Genetics
+            Yata 1111, Mishima, Shizuoka 411, Japan.
+FEATURES             Location/Qualifiers
+     source          1..516
+                     /organism="Caenorhabditis elegans"
+                     /mol_type="mRNA"
+                     /strain="N2"
+                     /db_xref="taxon:6239"
+                     /clone="yk882c03"
+                     /sex="Hermaphrodite"
+                     /tissue_type="whole animal"
+                     /dev_stage="L1"
+                     /clone_lib="LIBEST_009634 unpublished oligo-capped cDNA
+                     library, stage L1"
+ORIGIN      
+        1 actgttggcc tactggttat caacggctcc atcacaacaa gctcttcaac aaattcaagc
+       61 atcaagtcca ttccgtcgaa agtcgatgga tcgaaacagt ctttccagaa ggttccttga
+      121 aaatggtgga gctcagccaa aaacagtttg gagcccatct gctnttgcta atcagggagc
+      181 tccgcgaaga agtaactcga atctatttgc tgctacaaat ctagaagttc caccaacttc
+      241 cacaaattta tccagaagac cagatgatct caatttcgcc tcctcactcc gcagtcgaag
+      301 ccagagtcca aataagtttg cactcagcca aatgatcaac tcacgagata caccttcaag
+      361 cccatcttcc acaactggaa gttcaattgt tggtagaaat ctacaacaga ggcgacgtgg
+      421 ttcagatgtt tcgtatgttc gatcagcgac acgcggtaga gatgaaatga gaaaaagtac
+      481 ggatgcattg aataaactta tggctgtgag aagcaa
+//
+LOCUS       BH049399                 146 bp    DNA     linear   GSS 17-JUL-2001
+DEFINITION  RPCI-24-347B22.TJ RPCI-24 Mus musculus genomic clone
+            RPCI-24-347B22, genomic survey sequence.
+ACCESSION   BH049399
+VERSION     BH049399.1  GI:14838311
+DBLINK      BioSample: LIBGSS_003083
+KEYWORDS    GSS.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 146)
+  AUTHORS   Zhao,S., Nierman,W., Malek,J., Shatsman,S., Akinret,B., Levins,M.,
+            Tsegaye,G., Geer,K., Krol,M., Shvartsbeyn,A., Gebregeorgis,E.,
+            Russell,D., de Jong,P. and Fraser,C.M.
+  TITLE     Mouse BAC End Sequences from Library RPCI-24
+  JOURNAL   Unpublished (1999)
+COMMENT     Other_GSSs: RPCI-24-347B22.TV
+            Contact: Shaying Zhao
+            Department of Eukaryotic Genomics
+            The Institute for Genomic Research
+            9712 Medical Center Dr., Rockville, MD 20850, USA
+            Tel: 301 838 0200
+            Fax: 301 838 0208
+            Email: szhao@tigr.org
+            Clones are derived from the mouse BAC library RPCI-24. For BAC
+            library availability, please contact Pieter de Jong
+            (pdejong@mail.cho.org). Clones may be purchased from BACPAC
+            Resources (http://www.chori.org/bacpac/orderingframe.htm). BAC end
+            page: http://ww .tigr.org/tdb/bac_ends/mouse/bac_end_intro.html
+            Plate: 347  row: B  column: 22
+            Seq primer: SP6
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..146
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="C57BL/6J"
+                     /db_xref="taxon:10090"
+                     /clone="RPCI-24-347B22"
+                     /sex="Male"
+                     /cell_type="Spleen/Brain"
+                     /clone_lib="LIBGSS_003083 RPCI-24"
+                     /note="Vector: pTARBAC1; Site_1: BamH1; Site_2: BamH1;
+                     RPCI-24 Mouse BAC Library produced by Pieter de Jong. The
+                     library was  cloned in the pTARBAC1 cloning vector at the
+                     BamH1 sites using MboI  partially digested male C57BL/6J
+                     DNA."
+ORIGIN      
+        1 agttgagagc acttcccatg cgagtctggg aactcatctt agcaaccatg aaaagagcag
+       61 aggtagagtc tctcaaactc ctgtgacccc agctatggct tcatggtgac ggttggttgg
+      121 ttggttggtt ggttggttgg ttgatt
+//
+LOCUS       BH048430                 566 bp    DNA     linear   GSS 17-JUL-2001
+DEFINITION  RPCI-24-396G8.TJ RPCI-24 Mus musculus genomic clone RPCI-24-396G8,
+            genomic survey sequence.
+ACCESSION   BH048430
+VERSION     BH048430.1  GI:14836304
+DBLINK      BioSample: LIBGSS_003083
+KEYWORDS    GSS.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 566)
+  AUTHORS   Zhao,S., Nierman,W., Malek,J., Shatsman,S., Akinret,B., Levins,M.,
+            Tsegaye,G., Geer,K., Krol,M., Shvartsbeyn,A., Gebregeorgis,E.,
+            Russell,D., de Jong,P. and Fraser,C.M.
+  TITLE     Mouse BAC End Sequences from Library RPCI-24
+  JOURNAL   Unpublished (1999)
+COMMENT     Other_GSSs: RPCI-24-396G8.TV
+            Contact: Shaying Zhao
+            Department of Eukaryotic Genomics
+            The Institute for Genomic Research
+            9712 Medical Center Dr., Rockville, MD 20850, USA
+            Tel: 301 838 0200
+            Fax: 301 838 0208
+            Email: szhao@tigr.org
+            Clones are derived from the mouse BAC library RPCI-24. For BAC
+            library availability, please contact Pieter de Jong
+            (pdejong@mail.cho.org). Clones may be purchased from BACPAC
+            Resources (http://www.chori.org/bacpac/orderingframe.htm). BAC end
+            page: http://ww .tigr.org/tdb/bac_ends/mouse/bac_end_intro.html
+            Plate: 396  row: G  column: 8
+            Seq primer: SP6
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..566
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="C57BL/6J"
+                     /db_xref="taxon:10090"
+                     /clone="RPCI-24-396G8"
+                     /sex="Male"
+                     /cell_type="Spleen/Brain"
+                     /clone_lib="LIBGSS_003083 RPCI-24"
+                     /note="Vector: pTARBAC1; Site_1: BamH1; Site_2: BamH1;
+                     RPCI-24 Mouse BAC Library produced by Pieter de Jong. The
+                     library was  cloned in the pTARBAC1 cloning vector at the
+                     BamH1 sites using MboI  partially digested male C57BL/6J
+                     DNA."
+ORIGIN      
+        1 agagaaagag caactttctc tatattggca gtcgtcccag catacttggg tatcaaagaa
+       61 ccacagtttg gattaacaga tatgtatggt tccaatctca agtgtccaaa ggcatccata
+      121 tatatatata tatatatatg aatctctcat atttatagag agaatacata gatctgaacc
+      181 tccatagtct ttggccttat attaaaatga accatgactt ataatgccac ctactatttg
+      241 ccagaagtgt tacagatttc aagtctcagg tatgagaacc tttcactcta taagagaaac
+      301 tagttttaaa agctgtgggg ccttgaatgt aaggatccct gaactcttct aacatctggg
+      361 acctacagtc tctggtgtta acctcttaca taaactacgt caatgcaagt gtgtctagat
+      421 gtatgttctt ttacaatgcc ttctgtcaca cgcagacaga tgtaaaagtg tacctcacca
+      481 aaactagctc ctgaaactgg ggagctacaa gacaattttt aacacgttgc aaaggcacag
+      541 gagacgtgat caagcagtat gcacag
+//
+LOCUS       BI260184                 771 bp    mRNA    linear   EST 11-JAN-2011
+DEFINITION  602970227F1 NIH_MGC_12 Homo sapiens cDNA clone IMAGE:5109510 5',
+            mRNA sequence.
+ACCESSION   BI260184
+VERSION     BI260184.1  GI:14818248
+DBLINK      BioSample: LIBEST_004011
+KEYWORDS    EST.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 771)
+  CONSRTM   National Institutes of Health, Mammalian Gene Collection (MGC)
+  TITLE     NIH-MGC EST Sequencing Project
+  JOURNAL   Unpublished (1999)
+  REMARK    http://mgc.nci.nih.gov/
+COMMENT     Contact: Robert Strausberg, Ph.D.
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: ATCC
+             cDNA Library Preparation: Life Technologies, Inc.
+             cDNA Library Arrayed by: Incyte Genomics, Inc.
+             DNA Sequencing by: Incyte Genomics, Inc.
+             Clone distribution: MGC clone distribution information can be
+            found through the I.M.A.G.E. Consortium/LLNL at:
+            http://image.llnl.gov
+            Plate: LLAM11265  row: f  column: 07
+            High quality sequence stop: 707.
+FEATURES             Location/Qualifiers
+     source          1..771
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="IMAGE:5109510"
+                     /tissue_type="cervical carcinoma cell line"
+                     /lab_host="DH10B"
+                     /clone_lib="LIBEST_004011 NIH_MGC_12"
+                     /note="Organ: cervix; Vector: pCMV-SPORT6; Site_1: NotI;
+                     Site_2: SalI; Cloned unidirectionally.  Primer: Oligo dT.
+                     Average insert size 1.4 kb. Library prepared by Life
+                     Technologies."
+ORIGIN      
+        1 atgcacccaa ccatccttcc cctgcggagt atgtcgaggt gctccaggag ctacagcggc
+       61 tggagagtcg cctccagccc ttcttgcagc gctactacga ggttctgggt gctgctgcca
+      121 ccacggacta caataacaat cacgagggcc gggaggagga tcagcggttg atcaacttgg
+      181 taggggagag cctgcgactg ctgggcaaca cctttgttgc actgtctgac ctgcgctgca
+      241 atctggcctg cacgccccca cgacacctgc atgtggtccg gcctatgtct cactacacca
+      301 cccccatggt gctccagcag gcagccattc ccatacagat caatgtggga accactgtga
+      361 ccatgacagg aaatgggact cggccccccc caagtcccaa tgcagaggca cctccccctg
+      421 gtcctgggca ggcctcatcc gtggctccgt cttctaccaa tgtcgagtcc tcagctgagg
+      481 gggctccccc gccaggtcca gctcccccgc cagccaccag ccaaccgagg gtcatccgga
+      541 tttcccacca gagtgtggaa cccgtggtca tgatgcacat gaacattcaa gattctggca
+      601 cacagcctgg tggtgtaccg agttgctccc acttggcccc ctgggacccc ctggtcatgg
+      661 ccaaaccctg ggaccagcca ggtgccaggc tttccaaaca gctccaacac cgaggtggga
+      721 gattagccgg acacactcca tcaaaaggct caggacttcc caatcatgga g
+//
+LOCUS       BH038863                 740 bp    DNA     linear   GSS 17-JUL-2001
+DEFINITION  RPCI-24-370A14.TV RPCI-24 Mus musculus genomic clone
+            RPCI-24-370A14, genomic survey sequence.
+ACCESSION   BH038863
+VERSION     BH038863.1  GI:14816212
+DBLINK      BioSample: LIBGSS_003083
+KEYWORDS    GSS.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 740)
+  AUTHORS   Zhao,S., Nierman,W., Malek,J., Shatsman,S., Akinret,B., Levins,M.,
+            Tsegaye,G., Geer,K., Krol,M., Shvartsbeyn,A., Gebregeorgis,E.,
+            Russell,D., de Jong,P. and Fraser,C.M.
+  TITLE     Mouse BAC End Sequences from Library RPCI-24
+  JOURNAL   Unpublished (1999)
+COMMENT     Other_GSSs: RPCI-24-370A14.TJ
+            Contact: Shaying Zhao
+            Department of Eukaryotic Genomics
+            The Institute for Genomic Research
+            9712 Medical Center Dr., Rockville, MD 20850, USA
+            Tel: 301 838 0200
+            Fax: 301 838 0208
+            Email: szhao@tigr.org
+            Clones are derived from the mouse BAC library RPCI-24. For BAC
+            library availability, please contact Pieter de Jong
+            (pdejong@mail.cho.org). Clones may be purchased from BACPAC
+            Resources (http://www.chori.org/bacpac/orderingframe.htm). BAC end
+            page: http://ww .tigr.org/tdb/bac_ends/mouse/bac_end_intro.html
+            Plate: 370  row: A  column: 14
+            Seq primer: T7
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..740
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="C57BL/6J"
+                     /db_xref="taxon:10090"
+                     /clone="RPCI-24-370A14"
+                     /sex="Male"
+                     /cell_type="Spleen/Brain"
+                     /clone_lib="LIBGSS_003083 RPCI-24"
+                     /note="Vector: pTARBAC1; Site_1: BamH1; Site_2: BamH1;
+                     RPCI-24 Mouse BAC Library produced by Pieter de Jong. The
+                     library was  cloned in the pTARBAC1 cloning vector at the
+                     BamH1 sites using MboI  partially digested male C57BL/6J
+                     DNA."
+ORIGIN      
+        1 aagctgtccc ttaggttcag actcctgtaa ctccaggtct agggaaccca gcctctacct
+       61 gcacatggta tgtacccatg catacattca ggaaaaacac tcatagatat atgattgtgg
+      121 aagaactggc catgcacctt gcctgggcaa agcaagagat ccagtcatgg ttgtttggga
+      181 acaggagggc tgaccaactt agctactctc ccagacccag atccagggct cagagctgga
+      241 ctgccctaac ttctaccacg tctatgaagt gctggagtat gtgcagaggc tgatgctgca
+      301 gatacaaagc tgcagaatct ctataaccaa cgggcaacaa gaagatatct aagagaagtc
+      361 ccatagaagt gatggtatta aaagtgtagc agaagccaga gacctccaac cagaccaatg
+      421 actcattgca aatgcaaggg aagctgatag ggcaaattag cccagaaact tagaataccc
+      481 aagatatgag atacaatttg caaaatacat gaaactcaag aagaacgaag accaaagtgt
+      541 ggacactttg ccctttctta gaattgggaa caaaacacac atgtaaggac ttacagatac
+      601 aaagtttggt gctgagacga aaggatgcac catctagaga ctgccatacc cgggggatcc
+      661 attcccatat catcctccaa acgctgacac cattgcatat actagcaaga tttttctgaa
+      721 acgaccctga tatagctgac
+//
+LOCUS       BH037870                 631 bp    DNA     linear   GSS 17-JUL-2001
+DEFINITION  RPCI-24-387M20.TV RPCI-24 Mus musculus genomic clone
+            RPCI-24-387M20, genomic survey sequence.
+ACCESSION   BH037870
+VERSION     BH037870.1  GI:14814206
+DBLINK      BioSample: LIBGSS_003083
+KEYWORDS    GSS.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Zhao,S., Nierman,W., Malek,J., Shatsman,S., Akinret,B., Levins,M.,
+            Tsegaye,G., Geer,K., Krol,M., Shvartsbeyn,A., Gebregeorgis,E.,
+            Russell,D., de Jong,P. and Fraser,C.M.
+  TITLE     Mouse BAC End Sequences from Library RPCI-24
+  JOURNAL   Unpublished (1999)
+COMMENT     Other_GSSs: RPCI-24-387M20.TJ
+            Contact: Shaying Zhao
+            Department of Eukaryotic Genomics
+            The Institute for Genomic Research
+            9712 Medical Center Dr., Rockville, MD 20850, USA
+            Tel: 301 838 0200
+            Fax: 301 838 0208
+            Email: szhao@tigr.org
+            Clones are derived from the mouse BAC library RPCI-24. For BAC
+            library availability, please contact Pieter de Jong
+            (pdejong@mail.cho.org). Clones may be purchased from BACPAC
+            Resources (http://www.chori.org/bacpac/orderingframe.htm). BAC end
+            page: http://ww .tigr.org/tdb/bac_ends/mouse/bac_end_intro.html
+            Plate: 387  row: M  column: 20
+            Seq primer: T7
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="C57BL/6J"
+                     /db_xref="taxon:10090"
+                     /clone="RPCI-24-387M20"
+                     /sex="Male"
+                     /cell_type="Spleen/Brain"
+                     /clone_lib="LIBGSS_003083 RPCI-24"
+                     /note="Vector: pTARBAC1; Site_1: BamH1; Site_2: BamH1;
+                     RPCI-24 Mouse BAC Library produced by Pieter de Jong. The
+                     library was  cloned in the pTARBAC1 cloning vector at the
+                     BamH1 sites using MboI  partially digested male C57BL/6J
+                     DNA."
+ORIGIN      
+        1 aggatatacc cttcttctca gctcctcatg gtaccttctc caaaattgac cacataatag
+       61 gtcacaaatc aggcctcaac agattcaaaa atattgaaat tgtcccatgt atcctatcag
+      121 atcaccatgc actaaggctg atcttaataa caaaataaat acagaaagcc aatcttttat
+      181 tggaaactga acaacactct tctcaatgat accttggtca aggaaggaat aaagaaagaa
+      241 attaaagact ttttagagtt taatgaaaat gaagccacaa cgtacccaaa cctttgggac
+      301 acaatgaaag catttctaag agggaaactc atagctatga gtgccttcaa gaaaaaacgg
+      361 gagagagcac atactagcag cttgacaaca catctaaaag ctctagaaaa aaaggaagca
+      421 aattcaccca agaggagtag acggcaggaa ataatcaaac tcaggggtga aatcaaccaa
+      481 gtggaaacaa gaagaactat tcaaagaatt aaccaaacga ggagttggtt ctttgagaaa
+      541 atcaacaaga tagataaacc cttagctaga ctcactaaag ggcacagggg agaagatcct
+      601 aattaacaac atcagcaatg atgaaggggg c
+//
+LOCUS       BI257113                 924 bp    mRNA    linear   EST 09-JAN-2011
+DEFINITION  602975791F1 NIH_MGC_12 Homo sapiens cDNA clone IMAGE:5114903 5',
+            mRNA sequence.
+ACCESSION   BI257113
+VERSION     BI257113.1  GI:14812166
+DBLINK      BioSample: LIBEST_004011
+KEYWORDS    EST.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 924)
+  CONSRTM   National Institutes of Health, Mammalian Gene Collection (MGC)
+  TITLE     NIH-MGC EST Sequencing Project
+  JOURNAL   Unpublished (1999)
+  REMARK    http://mgc.nci.nih.gov/
+COMMENT     Contact: Robert Strausberg, Ph.D.
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: ATCC
+             cDNA Library Preparation: Life Technologies, Inc.
+             cDNA Library Arrayed by: Incyte Genomics, Inc.
+             DNA Sequencing by: Incyte Genomics, Inc.
+             Clone distribution: MGC clone distribution information can be
+            found through the I.M.A.G.E. Consortium/LLNL at:
+            http://image.llnl.gov
+            Plate: LLAM11279  row: f  column: 24
+            High quality sequence stop: 844.
+FEATURES             Location/Qualifiers
+     source          1..924
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="IMAGE:5114903"
+                     /tissue_type="cervical carcinoma cell line"
+                     /lab_host="DH10B"
+                     /clone_lib="LIBEST_004011 NIH_MGC_12"
+                     /note="Organ: cervix; Vector: pCMV-SPORT6; Site_1: NotI;
+                     Site_2: SalI; Cloned unidirectionally.  Primer: Oligo dT.
+                     Average insert size 1.4 kb. Library prepared by Life
+                     Technologies."
+ORIGIN      
+        1 gagacatgct ccgggacatc atggatgccc agcgtcgcca gcgcccttat gtcgtcacct
+       61 tctgcggcgt taatggagtg gggaaatcta ctaatcttgc caagatttcc ttctggttgt
+      121 tagagaatgg cttcagtgtc ctcattgctg cctgtgatac atttcgtgct ggggccgtgg
+      181 agcagctgcg tacacacacc cggcgtttga gtgccctaca ccctccagag aagcatggtg
+      241 gccgcaccat ggtgcagttg tttgaaaagg gctatggcaa ggatgctgct ggcattgcca
+      301 tggaagccat tgcttttgca cgtaaccaag gctttgacgt ggtgctggtg gacacggcag
+      361 gccgcatgca agacaatgcc cctctgatga ctgccctggc caaactcatt actgtcaata
+      421 cacctgattt ggtgctgttt gtaggagaag ccttagtagg caatgaagcc gtggaccagc
+      481 tggtcaagtt caacagagcc ttggctgacc attctatggc tcagacacct cggctcattg
+      541 atggcattgt tcttaccaaa tttgatacca ttgatgacaa ggtgggagct gctatttcta
+      601 tgacgtacat cacaagcaaa cccatcgtct ttgtgggcac cggccagacc tactgtgacc
+      661 tacgcagctc aatgccaagg ctgtggtggc tgccctcatg aaggcttaac gtggctcttg
+      721 ccaaatacca aatcgccgtt tcccacaagc cctttcttcc tgtatcaaga atgtgcttta
+      781 aagtatgtga gcaacctgtc ttcagtgtag tacaaaggca gagtgagggg gctgtgggtc
+      841 cttccaaagc aatccccgtt agcacagcgc attgcaggaa ggcctatcat gtacactcct
+      901 ggcattgaca tctccagggg ctcc
+//
+LOCUS       BH035857                 660 bp    DNA     linear   GSS 17-JUL-2001
+DEFINITION  RPCI-24-387H14.TJB RPCI-24 Mus musculus genomic clone
+            RPCI-24-387H14, genomic survey sequence.
+ACCESSION   BH035857
+VERSION     BH035857.1  GI:14810129
+DBLINK      BioSample: LIBGSS_003083
+KEYWORDS    GSS.
+SOURCE      Mus musculus (house mouse)
+  ORGANISM  Mus musculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia;
+            Sciurognathi; Muroidea; Muridae; Murinae; Mus; Mus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Zhao,S., Nierman,W., Malek,J., Shatsman,S., Akinret,B., Levins,M.,
+            Tsegaye,G., Geer,K., Krol,M., Shvartsbeyn,A., Gebregeorgis,E.,
+            Russell,D., de Jong,P. and Fraser,C.M.
+  TITLE     Mouse BAC End Sequences from Library RPCI-24
+  JOURNAL   Unpublished (1999)
+COMMENT     Other_GSSs: RPCI-24-387H14.TVB
+            Contact: Shaying Zhao
+            Department of Eukaryotic Genomics
+            The Institute for Genomic Research
+            9712 Medical Center Dr., Rockville, MD 20850, USA
+            Tel: 301 838 0200
+            Fax: 301 838 0208
+            Email: szhao@tigr.org
+            Clones are derived from the mouse BAC library RPCI-24. For BAC
+            library availability, please contact Pieter de Jong
+            (pdejong@mail.cho.org). Clones may be purchased from BACPAC
+            Resources (http://www.chori.org/bacpac/orderingframe.htm). BAC end
+            page: http://ww .tigr.org/tdb/bac_ends/mouse/bac_end_intro.html
+            Plate: 387  row: H  column: 14
+            Seq primer: SP6
+            Class: BAC ends.
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="Mus musculus"
+                     /mol_type="genomic DNA"
+                     /strain="C57BL/6J"
+                     /db_xref="taxon:10090"
+                     /clone="RPCI-24-387H14"
+                     /sex="Male"
+                     /cell_type="Spleen/Brain"
+                     /clone_lib="LIBGSS_003083 RPCI-24"
+                     /note="Vector: pTARBAC1; Site_1: BamH1; Site_2: BamH1;
+                     RPCI-24 Mouse BAC Library produced by Pieter de Jong. The
+                     library was  cloned in the pTARBAC1 cloning vector at the
+                     BamH1 sites using MboI  partially digested male C57BL/6J
+                     DNA."
+ORIGIN      
+        1 caaaatctct ccaagctgga ttgaggacag aaaaactctt tccctgataa ttttgaaagg
+       61 ctcctgttgg ctcccaggag agatattctg gtcttgacct aggtggccac caaggcacaa
+      121 caatgtcttg tggtctggaa aaactataaa ttcagtttta tatcctcttc ccccctgtac
+      181 tatcaacata gacttaattc cctaaaaacc agagacctgt tggaacctgg cctccaaaat
+      241 tggttttcca gtctattggg tgatgtggac tttgcagtga cttcatcaag tgttctcaga
+      301 agagcactgg ttccttttat aaaagattgt agatcagcca ggcatggtgg tgcacagctt
+      361 aaataccagc acttgggagg tggagacagg tgaatttctg agttcgaggc cagcctggac
+      421 tacagagttc caggacagcc agagctacac agagaaaccc tgtctcaaaa aaaaaaaaaa
+      481 aaaaaaagat tgtagatctt cagattgata attctgccac attcatttcc tgaaagtcag
+      541 ggtcagcttt tgaaaagttg ttaaacaaca tccttaatgt gaaatgtcaa ctctcactct
+      601 aagctacttc ccccttttca aagcattgga tgaagaaaga cttcattggg ttttatagtg
+//
+LOCUS       BF965657                 698 bp    mRNA    linear   EST 22-JAN-2001
+DEFINITION  602276746F1 NIH_MGC_86 Homo sapiens cDNA clone IMAGE:4364674 5',
+            mRNA sequence.
+ACCESSION   BF965657
+VERSION     BF965657.1  GI:12332872
+DBLINK      BioSample: LIBEST_008568
+KEYWORDS    EST.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 698)
+  CONSRTM   National Institutes of Health, Mammalian Gene Collection (MGC)
+  TITLE     NIH-MGC EST Sequencing Project
+  JOURNAL   Unpublished (1999)
+  REMARK    http://mgc.nci.nih.gov/
+COMMENT     Contact: Robert Strausberg, Ph.D.
+            Email: cgapbs-r@mail.nih.gov
+            Tissue Procurement: ATCC
+             cDNA Library Preparation: Life Technologies, Inc.
+             cDNA Library Arrayed by: The I.M.A.G.E. Consortium (LLNL)
+             DNA Sequencing by: Incyte Genomics, Inc.
+             Clone distribution: MGC clone distribution information can be
+            found through the I.M.A.G.E. Consortium/LLNL at:
+            http://image.llnl.gov
+            Plate: LLAM10012  row: k  column: 11.
+FEATURES             Location/Qualifiers
+     source          1..698
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /clone="IMAGE:4364674"
+                     /tissue_type="osteosarcoma, cell line"
+                     /lab_host="DH10B (phage-resistant)"
+                     /clone_lib="LIBEST_008568 NIH_MGC_86"
+                     /note="Organ: bone; Vector: pCMV-SPORT6; Site_1: NotI;
+                     Site_2: SalI; Cloned unidirectionally; oligo-dT primed.
+                     Average insert size 1.533 kb. Library enriched for
+                     full-length clones and constructed by Life Technologies.
+                     Note: this is a NIH_MGC Library."
+ORIGIN      
+        1 gcttcgtgga ggttggccgg gtggcctatg tctcctttgg acctcatgcc ggaaaatggt
+       61 cgcgatgtag atgttattga tcagaacagg gcttggtcga tggaccttgc actcaagtga
+      121 ggagacaggc catgcctttc aagtgcatgc agctcactga tttcatcctc aagtttccgc
+      181 acagtgccca ccagaagtat gtccgacaag cctggcagaa ggcagacatc aatacaaaat
+      241 gggcagccac acgatgggcc aagaagattg aagccagaga aaggaaagcc aagatgacag
+      301 atttgatcgt tttaaagtta tgaaggcaaa gaaaatgagg aacagaataa tcaagaatga
+      361 agttaagaag cttcaaaagg cagctctcct gaaagcttct cccaaaaaag cacctggtac
+      421 taagggtact gctgctgctg ctgctgcgtg ctgctgctgc tgctgctgct gctgctaaag
+      481 ttccagcaaa aaagatcacc gccgcgagta aaaaggctcc agcccagaag gttcctgccc
+      541 agaaagccac aggccagaaa gcagcgcctg ctccaaaagc tcagaagggt caaaaagctc
+      601 cagcccagaa agcagctgtt cagaggcatc tggcaggaaa gcataagtgg catcatcaga
+      661 agtataaagg ttcttttgag ctgttaaaaa aaaaaaaa
+//
