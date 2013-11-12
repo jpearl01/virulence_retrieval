@@ -8,7 +8,6 @@ Bio::NCBI.default_email = "(joshearl1@hotmail.com)"
 ncbi = Bio::NCBI::REST.new
 
 # get an array of Gene IDs using Elink
-
 results = ncbi.esearch("sak[Gene Name] AND Bacteria[Filter]", {"db"=>"gene", "rettype"=>"gb", "retmode"=>"text"})
 base_url = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=gene&db=protein&id="
 
