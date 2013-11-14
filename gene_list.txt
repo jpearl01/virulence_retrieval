@@ -1,0 +1,648 @@
+sak
+cag2
+chp, chips
+rfbJ
+sseI, srfH
+cloSI
+boNT
+stxA
+stxB
+ntnH
+papE
+spvB
+tccP
+ctxA
+cag1
+cag3
+cag4
+cag6
+cag13
+cag21
+cag8
+cag9
+cag11
+cag16
+cag18
+cag19
+cag20
+cag22
+cag25
+cag17
+cag23
+tcpH
+tcpN, toxT
+ctxB
+tcpF
+acfB
+tcpR
+tcpJ
+cag15
+ha-33
+ha-17
+ha-70
+cag5
+cag7
+E2.7.1.41
+comB7
+sseG
+hld
+flr, flipr
+sifA
+pipB2
+toxA
+tst
+sdeA, laiA
+lpnE
+sidF
+sdbA
+plc, cpa
+exoT
+sptP
+cag14
+tcdAB
+sdcA
+sasG
+babA
+pagD
+cag10
+cag12
+cagA
+hopZ
+POP5
+entA
+entB
+exoS
+ska
+sopD
+speB
+yscM
+pfbA
+mecA
+lpxR
+cag24
+fnbB
+lasB
+comC
+papG
+papK
+tir
+map
+nleA
+nleH
+sspH2
+pagK
+set1A
+set1B
+entC
+entD
+capA
+sidM, drrA
+lubX
+yadA
+espH
+sseA
+yopJ
+E1.1.1.39
+pgtE
+vacA
+espF
+eae
+eap, map
+sipA, ipaA
+espG, virA
+E2.8.3.17, fldA
+hopC, alpA
+hopB, alpB
+sabA
+lytM
+yscE
+E4.2.2.-
+tcpD
+tcpS
+yadB_C
+ospG
+mecR1
+birA, coaX
+chpD
+ace
+hsiF3
+rfbS
+wbyJ
+rfbV
+spyA
+papF
+waaJ, rfaJ
+waaK, rfaK
+waaI, rfaI
+E1.97.1.4
+E3.6.4.1
+E6.3.4.-
+K06924
+tetX
+E3.6.3.34
+ympA
+tdh1_2
+cpb2
+cpe
+HAO
+atlA
+brkA
+espG2
+bfpA
+mlsA1
+mlsB
+mlsA2
+IFT20
+sta
+stb
+URI1
+waaD
+pilY2
+porB
+rtxA1, rtxA
+comB9
+comB8
+icmR
+neuS, siaD
+cstII, cstIII
+icsA, virG
+ipgB1
+ipgB2
+ralF
+lidA
+sidC
+legK1
+lgt1_2_3
+sidI
+lepB
+sseJ
+set
+clfB
+isdA
+scn, scin
+ipgD, sopB
+actA
+comB4
+lpxE
+hpaA
+fib, efb
+sopE
+spa
+comB6
+misL
+ompA
+ENTPD1_3_8
+blaI
+yscA
+C5AP, scpA, scpB
+ompT
+comB10
+hsf
+vipA
+se
+yscG
+yscH
+aidA-I
+sseF
+sspB2, sspP, scpA
+papA
+papC
+papD
+yscP
+hlg, luk
+fnbA
+clfA
+ATS1
+phsB
+prdD
+tcpP
+blaR1
+ltuA
+ltuB
+sipC, ipaC, bipC
+ide
+rgpE
+cgtA
+sspB1
+fimW
+fimY
+yscB
+yscY
+dgaF
+nmpC, ompD
+aur
+E3.6.3.10
+E2.5.1.2
+cylX
+cylD
+cylG
+cylE
+cylF
+cylI
+cylJ
+cylK
+inlB
+ospE, espO
+vipE
+ssrB
+hlyE, clyA, sheA
+sbi
+ssrA
+ydiB
+K11442
+dgaE
+bigA
+pphB
+sseB
+sseD
+sscA
+sagA
+E3.6.1.17
+vibH
+vibF
+dgaR
+yopT
+comD
+comE
+folKP
+sfb1
+ydaV
+agrD
+sseC
+adiY
+crtM
+ymt
+icmF
+icmM, dotJ
+tphA
+sdrC_D_E
+citT
+E1.8.1.14, cdr
+sgtA
+ail
+sipD, ipaD, bipD
+sgcE
+allR
+sgtB
+ynfF
+hrtB
+hrtA
+cnf1
+ptxA
+femA
+pks8
+pbpA
+PTS-Dga-EIIA, dgaA
+PTS-Dga-EIID, dgaD
+PTS-Dga-EIIB, dgaB
+narT
+yahN
+E1.5.1.24
+E3.4.21.19, sspA
+E2.7.1.76, dak
+PTS-Dga-EIIC, dgaC
+crtP
+yscX
+pks17
+icsB, bopA
+vraS
+femB
+pbp3
+atl
+E1.5.8.2
+K08961
+leuL
+phsC
+flu
+vraR
+waaY, rfaY
+sipB, ipaB, bipB
+pduL
+glyQS
+PPAP2
+iga
+gatR
+K07280
+prdE
+acfA
+ptxB
+sfa3
+pchG
+nalP, ausP, sphB1
+wbyK
+vieA
+nanEK
+vipD
+pglI
+caiF
+lctO
+pduQ
+yscW
+tdcR
+uidR
+idnR, gntH
+K07279
+caiE
+zmpB
+adiC
+hasA
+tarJ
+csgC
+prdA
+fadK
+eutK
+mecI
+prdB
+wcaC
+eutG
+allS
+emrY
+mbtM
+E4.3.1.4
+thrL
+crtO
+csgA
+wcaM
+idnT
+ynfG
+uspD
+aroDE, DHQ-SDH
+cfa
+crtQ
+pchD
+pchE
+yfaU
+hasR
+allP
+pgtP
+yeiL
+irp3, ybtU
+ospF, mkaD
+wcaD
+saeR
+E3.5.1.28
+wbtG
+tilS-hprT
+envY
+emrK
+gatD
+yahA
+fliR-flhB
+caiT
+yscI
+eutD
+wzxC
+pseC
+caiA
+gntP
+atoS
+eamB
+caiB
+rpoBC
+hlyA1, hlyA
+sigA, sepA, esp
+ureI
+yscF
+artJ
+saeS
+femX, fmhB
+E4.1.-.-
+E1.2.1.10
+DNASE2
+syrD
+chpE
+migA
+icsP, sopA
+ipaH9.8
+mrsA
+ygiV
+nupX
+phnO
+fucK
+yihU
+irp4, ybtT
+tdcD, pduW
+sfmA
+sfmC
+pheP
+wzzB
+PTS-Sor-EIIA, sorF
+aldB
+fsaB, talC
+comB
+pks1_15
+K12445
+cadB
+K07453
+fimZ
+wcaE
+pagO
+ermC, ermA
+E2.3.2.21
+csiR
+ynfH
+ompT
+E4.2.2.9
+tcpI
+ftnB
+tnaB
+eutT
+tdcA
+stpA
+yscO
+K06887
+pseH
+yydI
+cedA
+mcbR
+acfD
+ypdF
+rzpD
+E3.1.11.3
+waaO, rfaI
+E1.14.16.-
+fadD22
+cfr
+pseF
+yggC
+fadD23
+mdtL
+tdcC
+nanT
+wcaB
+xanQ
+recE
+uhpC
+PTS-Fru2-EIIC
+sra
+yydJ
+gspO
+ygeU, xdhC
+uidB, gusB
+PTS-Sor-EIIC, sorA
+focB
+sfmF
+K16191, arfA
+trg
+PTS-Sor-EIIB, sorB
+PTS-Fru2-EIIA
+uhpT
+eutE
+marB
+tqsA
+fimF
+fimH
+PTS-Fru2-EIIB
+pgtA
+pgtC
+nudI
+tagF
+marA
+ygeR
+bhsA
+celD
+E1.1.3.21
+dhbE
+CQSA
+mas
+rtxE
+lpxF
+marR
+uspF
+nrfE
+agaI
+eutL
+sfmH
+sorM
+trpL
+cyp121
+elaB
+nudG
+nupG
+araE
+uidC, gusC
+nanK
+cadC
+E3.1.3.23
+E3.1.25.1
+E1.1.1.220
+K07128
+fha1
+cof
+fimI
+pgtB
+csgD
+irp5, ybtE
+sgbE
+attB
+attA2
+ABCC-BAC.COMA, comA
+pks3_4
+pagC
+irp1, HMWP1
+ctpD
+pduD
+ompN
+UAP1
+hycB
+hofO
+glcA
+ynfE
+yeeJ
+yscC
+drp35
+norF
+nreB
+tcpA
+tcpB
+tcpC
+tcpE
+tcpQ
+tcpT
+traL
+ppsC
+xapA
+hycA
+ecpD
+K09943
+hofP
+salR
+hpaX
+uspC
+eutM
+fucR
+ASMT
+K07741
+nfrA
+trbB
+pglC
+asrB
+pglJ
+pglH
+pglB
+hycD
+asrC
+zraP
+PTS-Gam-EIID, agaD
+pspE
+K09968
+lsrR
+waaZ, rfaZ
+psuT
+E4.1.1.19
+leuO
+waaW
+rihB
+yfiM
+E3.6.1.45
+iucB
+ibpB
+hycC
+K07317
+waaV
+soxS
+asrA
+garP
+eutQ
+feoC
+hycG
+arfC
+ybtA
+dos
+tar
+hycE
+murR
+gutQ
+rbsU
+K07318
+pchF
+aphA
+ompC
+yqjH
+csiD
+K07125
+hyfR
+gsp
+dnaT
+torS
+fadD10
+mdtP
+eutA
+phoE
+rna
+hycF
+yscS
+hlyII
+nreA
+yscT
+fdrA
+agaA
+rhtC
+kdpF
+waaL, rfaL
+sfmD
+devS
+K01138
+rtxD
+cueO
+nrfG
