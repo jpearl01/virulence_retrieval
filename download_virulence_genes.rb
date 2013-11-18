@@ -16,7 +16,7 @@ gene_names = File.read('gene_list.txt').split(%r{,\s*|\s+|\n})
 #We can actually get sequence straight from Kegg id's so lets keep them in a separate list for later
 kegg_ids = []
 
-=begin
+
 # get an array of Gene IDs using Elink
 gene_names.each_entry do |g|
   if ec_num = /EC?(\d+\.\d+\.\d+\.\d+)/.match(g)
@@ -29,6 +29,7 @@ gene_names.each_entry do |g|
 
   elsif /K\d+$/.match(g)
     #Unfortunately, the KEGG API has been deprecated since Dec 2012, I'll have to implement this with thier REST system.
+    #TODO implement the Kegg gene search
     kegg_ids.push(g)
   
   else
@@ -41,12 +42,12 @@ end
 
 File.open("ncbi_esearch_results",'w'){|f| f.write(results.to_yaml)}
 abort("Lets see what the NCBI gave back to us in the search results")
-=end
+
 
 base_url = "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=gene&db=protein&id="
 all_fasta_seqs = ""
 
-results = YAML.load_file("ncbi_esearch_results")
+#results = YAML.load_file("ncbi_esearch_results")
 
 results.each_entry do |e|
   #Create url to get xml results for this gid
