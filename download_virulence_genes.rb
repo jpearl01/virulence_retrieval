@@ -20,15 +20,15 @@ kegg_ids = []
 # get an array of Gene IDs using Elink
 gene_names.each_entry do |g|
   if ec_num = /EC?(\d+\.\d+\.\d+\.\d+)/.match(g)
-    #I tend to use $1 as the variable for identifying a group match, but for clarity to others reading this who don't know perl, I'll use a 
-    #more understandable syntax, i.e. "ec_num[1]"
+    #I tend to use $1 as the variable for identifying a group match, but for clarity to others reading this who don't know perl, I'll use  
+    #a more understandable syntax, i.e. "ec_num[1]"
     gid = ncbi.esearch("#{ec_num[1]}[EC] AND Bacteria[Filter]", { "db" => "gene", "rettype" => "gb", "retmode" => "text", "retmax" => 100 })    
     puts "No EC results for #{g}, searched using #{ec_num[1]}" if gid.empty?
     next if gid.empty?
     results.concat gid
 
   elsif /K\d+$/.match(g)
-    #Unfortunately, the KEGG API has been deprecated since Dec 2012, I'll have to implement this with thier REST system.
+    #Unfortunately, the KEGG API has been deprecated since Dec 2012, I'll have to implement this with their REST system.
     #TODO implement the Kegg gene search
     kegg_ids.push(g)
   
